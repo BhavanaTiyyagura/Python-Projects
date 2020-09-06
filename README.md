@@ -1,2 +1,2 @@
 # Python-Projects
-Projects made from the time I ventured into learning Python
+1. Ping-pong game - This was written in Python using the Turtle Libary.
